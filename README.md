@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Nicole!
 
-👩‍💻 **Frontend developer student with a background in Java**  
+👩‍💻 **I'm a Frontend developer student with a background in Java**  
 🌱 **I’m currently learning TypeScript**  
 
 
