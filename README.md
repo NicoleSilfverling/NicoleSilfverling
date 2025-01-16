@@ -1,5 +1,9 @@
 ## 👋 Hello, I'm Nicole!
 
+👩‍💻 **Frontend developer student with a background in Java**  
+🌱 **I’m currently learning TypeScript**  
+
+
 ## 💻 **Tech Stack**  
 ### Languages & Frameworks  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
